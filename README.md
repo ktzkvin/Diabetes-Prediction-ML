@@ -23,7 +23,7 @@ Welcome to the project on **diabetes classification** using machine learning!
 ### Prerequisites
 
 Ensure you have **Python 3.8+**. <br>
-Required libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `ydata-profiling`.
+Required libraries: `pandas`, `numpy (1.26.0 or less)`, `scikit-learn`, `matplotlib`, `seaborn`, `ydata-profiling`.
 
 ### Installation
 
